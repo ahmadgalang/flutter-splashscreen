@@ -1,4 +1,4 @@
-# flutter_project_two
+# Practice Two
 
 A new Flutter project.
 
